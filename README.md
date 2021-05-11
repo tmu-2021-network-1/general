@@ -44,6 +44,20 @@ Zoom URLは受講生のみに連絡します。
 - Web API
   - [海外・国内の便利なAPI一覧 - API LIST 100+](http://smsurf.app-rox.com/api/)
 
+## Excercise
+
+https://tmu-2021-network-1.github.io/Yuka1105/
+https://tmu-2021-network-1.github.io/chizu1819/
+https://tmu-2021-network-1.github.io/suzuki-hina/
+https://tmu-2021-network-1.github.io/Takumi20000916/
+https://tmu-2021-network-1.github.io/muto15/
+https://tmu-2021-network-1.github.io/sakamana/
+https://tmu-2021-network-1.github.io/R-Kitano/
+https://tmu-2021-network-1.github.io/Wataame716/
+https://tmu-2021-network-1.github.io/yuki1022/
+https://tmu-2021-network-1.github.io/mariko520/
+https://tmu-2021-network-1.github.io/fumitakatange/
+
 ## First Project
 
 TBA: Develop Web site using API
